@@ -1,4 +1,4 @@
-# Da-website
+# dzzy-xyz except the base is from Da-website
 
 A clean and simple website. ✨
 
